@@ -39,8 +39,8 @@ module.exports = {
     nodeEnv: false,
   },
   node: {
-    fs: 'empty',
-    process: false,
+    //fs: 'empty',
+    //process: false,
   },
   performance: {
     hints: false,
